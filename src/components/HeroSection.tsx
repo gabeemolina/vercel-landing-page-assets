@@ -43,9 +43,11 @@ const HeroSection = () => {
                     </div>
         
                 </div>
+                <div className="h-4 border-l border-r border-gallery"></div>
             </div>
-
+        <div className="h-4 border-l border-r border-gallery"></div>
         </div>;
+        
 }
 
 export default HeroSection;
